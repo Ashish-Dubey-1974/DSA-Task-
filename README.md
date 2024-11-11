@@ -360,3 +360,19 @@ Subarrays are contiguous parts of an array, and different categories of subarray
    Output: [1, 1, 0]
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ashish-Dubey-1974/DSA-Task-/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ashish-Dubey-1974/DSA-Task-/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ashish-Dubey-1974/DSA-Task-/tree/master/0048-rotate-image) |
+<!---LeetCode Topics End-->
